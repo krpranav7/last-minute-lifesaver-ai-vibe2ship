@@ -1,0 +1,6 @@
+{
+  "name": "LifeSaver AI",
+  "description": "Proactive Productivity Companion that intelligently schedules and plans tasks using Gemini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

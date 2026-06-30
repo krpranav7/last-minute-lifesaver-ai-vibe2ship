@@ -11,7 +11,7 @@ Unlike traditional, passive calendar planners that wait for you to look at them 
 ---
 
 ## 🚀 Deployed Application Link
-👉 **Live Demo:** [https://ais-pre-a2aptkvfzfkkwr7yww63kl-170367873583.asia-east1.run.app](https://ais-pre-a2aptkvfzfkkwr7yww63kl-170367873583.asia-east1.run.app)
+👉 **Live Demo:** [https://lifesaver-ai-361672249111.asia-southeast1.run.app](https://lifesaver-ai-361672249111.asia-southeast1.run.app)
 
 ---
 
